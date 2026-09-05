@@ -1,3 +1,6 @@
+# DISCLAIMER
+ - See `AUP.md` for the Acceptable Usage Policy that governs usage of this software before attempting to use the software in any way.
+
 # ggmlagent
 
 An autonomous agent harness built on [KoboldCPP](https://github.com/LostRuins/koboldcpp). The agent reads a task file, executes commands, browses the web, manages its own memory, and communicates over Telegram — running continuously on a dedicated machine.
