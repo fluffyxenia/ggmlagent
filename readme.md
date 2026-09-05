@@ -1,5 +1,5 @@
 # DISCLAIMER
- - See `AUP.md` for the Acceptable Usage Policy that governs usage of this software before attempting to use the software in any way.
+ - See the [Acceptable Usage Policy](AUP.md) for the policy that governs usage of this software before attempting to use or modify the software in any way.
 
 # ggmlagent
 
